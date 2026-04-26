@@ -63,17 +63,6 @@ To build a dynamic Excel dashboard that tracks call centre KPIs, identifies top-
 - Dynamic Charts (Line, Bar, Stacked Bar)
 - Form Controls (Rep filter buttons)
 
-## 📁 Project Structure
-
-```
-call-centre-report/
-│
-├── CallCentreReport2023.xlsx   # Excel dashboard file
-├── screenshots/
-│   └── dashboard.png           # Dashboard preview
-└── README.md
-```
-
 
 ## 🚀 How to Run
 
